@@ -168,7 +168,7 @@ For support, please contact the development team or open an issue on GitHub.
 
 ---
 
-**Last Updated:** April 2026
+**Last Updated:** 13 June 2026
 **Version:** 1.0.0
 
 Made with ❤️ for women entrepreneurs
